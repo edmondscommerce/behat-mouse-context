@@ -16,7 +16,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "behat/behat": "~3.0",
+        "behat/behat": "~3.0"
     },
     "autoload": {
         "psr-4": {
