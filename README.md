@@ -1,4 +1,4 @@
-#Mouse Events Context
+# Mouse Events Context
 ## By [Edmonds Commerce](https://www.edmondscommerce.co.uk)
 
 Behat contexts to aid with mouse events
